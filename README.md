@@ -14,4 +14,5 @@ artGarden™ is for new artists who have trouble breaking into the art sphere. a
 
 - ![Project Github Repo](https://github.com/gusvalenzuela/art-garden-bc)
 - ![Project Task board on github](https://github.com/gusvalenzuela/art-garden-bc/projects/)
+- ![Deployed Link](https://art-garden.herokuapp.com/)
 
